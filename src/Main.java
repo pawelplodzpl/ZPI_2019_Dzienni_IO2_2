@@ -5,5 +5,7 @@ public class Main {
     {
         System.out.println("Nazwa grupy: ZPI_2019_Dzienni_IO2_2 \nTeamLeaderID: Rahly - tester ");
         System.out.println("Developer - 209424");
+        System.out.println("Operations: Sosnus");
+        System.out.println("Tester: Rahly");
     }
 }
