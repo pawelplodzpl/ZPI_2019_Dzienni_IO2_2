@@ -1,5 +1,5 @@
-
-    // Comment 2 209424
+ // Diff com
+ // Comment 2 209424
 public interface IArithmeticsDiff
 {
     //Second comment by skydriver95

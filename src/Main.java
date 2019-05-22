@@ -1,4 +1,5 @@
-public class Main {
+public class Main 
+{ // move bracket
 
 
     public static void main(String[] args)
