@@ -9,4 +9,4 @@ public class Main
         System.out.println("Operations: Sosnus");
         System.out.println("Tester: Rahly");
     }
-}
+} //end of program
